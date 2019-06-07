@@ -14,6 +14,7 @@ Python 3.7
 
 **Helpful resources**
 
-[AWS Lambda Deployment Package in Python] (https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
-[AWS SAM] https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html
+[AWS Lambda Deployment Package in Python](https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
+
+[AWS SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
 
